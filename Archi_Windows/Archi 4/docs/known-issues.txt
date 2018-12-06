@@ -1,0 +1,11 @@
+Known Issues with Archi
+=======================
+
+(1) If the content of the "Welcome" window does not display, maximize the "Welcome" window and click on the
+    "Home" button on the "Welcome" window's toolbar.
+  
+(2) When closing a diagram view (editor) in split mode in an unsaved model, a dialog box appears asking to "Save Parts".
+    This is a bug in Eclipse (https://bugs.eclipse.org/bugs/show_bug.cgi?id=447191). Click "OK" to dismiss the dialog,
+    or save the model before closing the diagram view.
+
+(3) Undo/Redo slide animations don't work on Mac OS X.
