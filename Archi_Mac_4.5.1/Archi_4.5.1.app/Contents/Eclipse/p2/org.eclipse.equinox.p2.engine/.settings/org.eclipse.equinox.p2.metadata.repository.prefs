@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+repositories/file\:_D\:_projekts_archi_code_workspace_.metadata_.plugins_org.eclipse.pde.core_tempp2metadata/enabled=true
+repositories/file\:_D\:_projekts_archi_code_workspace_.metadata_.plugins_org.eclipse.pde.core_tempp2metadata/isSystem=false
+repositories/file\:_D\:_projekts_archi_code_workspace_.metadata_.plugins_org.eclipse.pde.core_tempp2metadata/name=file\:/D\:/projekts/archi/code/workspace/.metadata/.plugins/org.eclipse.pde.core/tempp2metadata - metadata
+repositories/file\:_D\:_projekts_archi_code_workspace_.metadata_.plugins_org.eclipse.pde.core_tempp2metadata/suffix=content.xml
+repositories/file\:_D\:_projekts_archi_code_workspace_.metadata_.plugins_org.eclipse.pde.core_tempp2metadata/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_D\:_projekts_archi_code_workspace_.metadata_.plugins_org.eclipse.pde.core_tempp2metadata/uri=file\:/D\:/projekts/archi/code/workspace/.metadata/.plugins/org.eclipse.pde.core/tempp2metadata/
+repositories/file\:_D\:_projekts_archi_code_workspace_.metadata_.plugins_org.eclipse.pde.core_tempp2metadata/version=1.0.0
+repositories/http\:__download.eclipse.org_modeling_emf_emf_builds/enabled=false
+repositories/http\:__download.eclipse.org_modeling_emf_emf_builds/isSystem=false
+repositories/http\:__download.eclipse.org_modeling_emf_emf_builds/uri=http\://download.eclipse.org/modeling/emf/emf/builds/
+repositories/http\:__download.eclipse.org_tools_gef_updates_legacy_releases/enabled=false
+repositories/http\:__download.eclipse.org_tools_gef_updates_legacy_releases/isSystem=false
+repositories/http\:__download.eclipse.org_tools_gef_updates_legacy_releases/uri=http\://download.eclipse.org/tools/gef/updates/legacy/releases/
+repositories/http\:__download.eclipse.org_tools_gef_updates_legacy_releases_site.xml/enabled=false
+repositories/http\:__download.eclipse.org_tools_gef_updates_legacy_releases_site.xml/isSystem=false
+repositories/http\:__download.eclipse.org_tools_gef_updates_legacy_releases_site.xml/uri=http\://download.eclipse.org/tools/gef/updates/legacy/releases/site.xml

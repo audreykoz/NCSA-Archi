@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: com.archimatetool.model;singleton:=true
+Bundle-Version: 4.5.1.201908071603
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Eclipse-BundleShape: dir
+Export-Package: com.archimatetool.model,com.archimatetool.model.impl,com
+ .archimatetool.model.util,com.archimatetool.model.viewpoints
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.emf.ecore;visibilit
+ y:=reexport,org.eclipse.emf.ecore.xmi;visibility:=reexport,com.archimat
+ etool.jdom
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ClassPath: com.archimatetool.model.jar
+Automatic-Module-Name: com.archimatetool.model
+
+
